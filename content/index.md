@@ -1,8 +1,8 @@
 ---
-title: give this note a title
+title: index
 draft: false
 tags:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the space for my mental notes and some writings.
+
