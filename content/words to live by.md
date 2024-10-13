@@ -1,5 +1,5 @@
 ---
-title: on people
+title: words to live by
 draft: false
 tags:
 ---
