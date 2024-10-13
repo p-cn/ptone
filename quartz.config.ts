@@ -29,9 +29,9 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F8F7FF",
+          light: "#FFFFFF",//background
           lightgray: "#E6E6E6",//searchbox, border
-          gray: "#b8b8b8",
+          gray: "#b8b8b8",//metadata
           darkgray: "#5E6472",//body text
           dark: "#BB3E03",//heading title
           secondary: "#A57B7B",//links, folder nav, page home a
