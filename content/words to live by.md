@@ -7,3 +7,4 @@ tags:
 2. Some problems only happen when you are with certain people. It's them, not you.
 3. Obsession with oneself is generally a benign choice, but to impose it on others is just unattractive. This can be about anything from appearance, morality, to relationship status and freedom of choice. 
 4. Sincerity and honesty are expensive and hard to come by. Give them sparingly and selectively.
+5. Mental wound sucks more when it's inflicted by people whom you trusted. The only right course is learning to get back on your control.
