@@ -3,7 +3,6 @@ title: Hey there
 draft: false
 tags:
 ---
-
 This is the space for my mental notes and some writings.
 Currently, I am focusing on [[words to live by]].
 
