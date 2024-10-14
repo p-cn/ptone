@@ -13,7 +13,7 @@ tags: []
 10. Trong mắt người quen, không ai được phép nổi bật.
 11. Chúng ta đang thờ Phật hay đang thờ dục vọng của riêng mình?
 12. Một khi người ta có sự nghi ngờ, tội ác của bạn đã được xác định.
-13. Muốn biết rõ một người, cách nhanh nhất là dính líu đến tiền bạc.
+
 14. Người yếu đuối luôn sợ nói sự thật và ghét những người nói sự thật.
 15. Những người tử tế nhất trong đám đông thường là những người đáng sợ nhất.
 16. Mọi người đều sẵn sàng tin theo điều gì đó một cách mù quáng, như thể điều an toàn nhất trên đời là đứng về “số đông”.
