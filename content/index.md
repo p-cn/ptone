@@ -11,4 +11,4 @@ My random thoughts are at [[scribbles]].
 Have a nice day. Here is my dog tax.
 
 
-![[z-res/96c2e0f0ca37ea0d4a82d9b637b205b5_MD5.jpeg]]
+![[z-res/6e0af3ffc12254f61a3e7743b8870eaf_MD5.jpeg|300]]
