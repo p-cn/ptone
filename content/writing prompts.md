@@ -3,35 +3,24 @@ title: writing prompts
 draft: true
 tags: []
 ---
-
-
 5. "If you wanted fair, you chose the wrong job, the wrong profession, the wrong species." 
 6. "Perseverance does not equal worthiness."
-7. "If you can fake sincerity, you can fake pretty much anything."
 8. "The most successful marriages are based on lies."
 9. Khi đó, tôi không hiểu được sự mâu thuẫn trong bản chất con người, không biết trong sự chân thành có bao nhiêu giả tạo, trong cao thượng có bao nhiêu đê hèn, trong cái ác có bao nhiêu lòng nhân ái. Bây giờ tôi hoàn toàn hiểu rằng  chân thành và giả tạo, cao thượng và đê hèn, hận thù và tình yêu có thể cùng tồn tại trong một trái tim.
-10. Trong mắt người quen, không ai được phép nổi bật.
 11. Chúng ta đang thờ Phật hay đang thờ dục vọng của riêng mình?
-12. Một khi người ta có sự nghi ngờ, tội ác của bạn đã được xác định.
-
-14. Người yếu đuối luôn sợ nói sự thật và ghét những người nói sự thật.
 15. Những người tử tế nhất trong đám đông thường là những người đáng sợ nhất.
 16. Mọi người đều sẵn sàng tin theo điều gì đó một cách mù quáng, như thể điều an toàn nhất trên đời là đứng về “số đông”.
 17. Điều mà hầu hết mọi người trở thành không phải là người họ muốn trở thành mà là họ phải trở thành người như thế nào.
-18. Niềm vui trong cuộc sống của một số người là phát hiện ra “những khuyết điểm” đạo đức của người khác rồi chúc họ gặp bất hạnh.
-19. Họ mở miệng ra, tưởng mình đang đứng trên đỉnh cao đạo đức.
 20. Người ta thà quan tâm đến chuyện cá nhân, ăn uống của một diễn viên điện ảnh dở tệ còn hơn là tìm hiểu thế giới nội tâm đầy sóng gió của một người bình thường.
-21. Nhiều khi người thân thắc mắc, hỏi han cũng không thực sự quan tâm đến bạn. Họ chỉ muốn đảm bảo rằng con cái họ học tốt hơn bạn.
+
  1. Những người trên thế giới này thật kỳ lạ, họ bắt những người muốn sống phải chết, sau đó lại thuyết phục những người muốn chết hãy sống tốt, nên ai cũng nửa sống nửa chết.
 22. Bản chất xấu xa nhất của con người: ghét bạn vì có, cười nhạo bạn vì không có, khinh thường vì bạn nghèo và sợ vì bạn giàu. Khi người Trung Quốc gặp nhau lần đầu tiên, họ sẽ đánh giá thân phận và giá trị của nhau, sau đó lựa chọn, bạn quỳ vì người kia hay để người kia quỳ vì mình.
 23. “Cái gì được coi là bắt nạt?” “Mười người bắt nạt một người được coi là bắt nạt, trăm người bắt nạt một người cũng là bắt nạt.” “Mười nghìn người thì sao?” "Đó là công lý."
-24. Mọi điều chúng ta nghe đều là ý kiến, không phải sự thật.
-25. Tất cả mọi thứ chúng ta thấy là một quan điểm, không phải sự thật. 
+
+
 26. Chúng ta không sẵn lòng khám phá giá trị của bản thân và đánh giá quá cao sự tham gia của người khác vào cuộc sống của mình. Vì vậy, sự cô đơn không còn đẹp đẽ nữa, và chúng ta cảm thấy lo lắng khi người khác rời đi.
 27.  Tình dục là đời sống vật chất và tuân theo nguyên tắc khoái cảm. Tình yêu là đời sống tinh thần tuân theo những nguyên tắc lý tưởng. Hôn nhân là một đời sống xã hội và tuân theo nguyên tắc thực tế. Là ba điều hoàn toàn khác nhau.
 28. Nếu nghĩ về lòng tự trọng khi yêu thì chỉ có thể có một lý do: Thực ra, bạn vẫn yêu chính mình nhất.
-29. I like being alone. I have control over my own space. Therefore, in order to win me over, your presence has to be better than my solitude. You're not competing with another person, you are competing with my comfort zone. 
-
 30. You will inevitably do things you don't enjoy. Use these as a way of getting closer to what you do enjoy as a process of elimination. If you don't realise what you don't like, its harder to realise what you do
 31. Think about the first time you tried something that was difficult. Its probably not that hard now. This will apply to most things you do
 32. Set up your team and work so that they don't "need" you! This way you free up more time to focus on the next thing. You are not as important as you think!
@@ -318,17 +307,16 @@ có 2 thứ đừng làm khi vui: hứa hẹn và đồng ý, sợ niềm vui đ
 
 ![[z-res/6bceb762799ce7d609812e2b493bf3e5_MD5.jpeg]]
 
-![[z-res/6cacffa5e6c32365a5b8fbfe0bf3ff7a_MD5.jpeg]]
 
-![[z-res/64a40625185bd00b3e78c868df240831_MD5.jpeg]]
 
-![[z-res/5cad72798e8820252db3c913d9c151f2_MD5.jpeg]]
+
+
 
 ![[z-res/fbbbfc6d9651509293365d65d5106bbc_MD5.jpeg]]![[z-res/7be72fc2bd75153c060e30a58f45c5e0_MD5.webp]]
 
-![[z-res/39bfeef0008769eb1c030e38ef28bb94_MD5.jpeg]]
 
-![[z-res/eb9c963f836d2ecdaf7e94c799689c16_MD5.jpeg]]
+
+
 
 ![[z-res/780eb296f0fc3eba44a58453c8cd8386_MD5.jpeg]]
 
@@ -529,4 +517,3 @@ despite all my rage, i am still just a girl in a room
 
 ![[z-res/f30c5607bfd11deca327e1a29bc89f4a_MD5.jpeg]]
 
-![[z-res/ff426464aa95b25a510462c2e791f5ac_MD5.jpeg]]
