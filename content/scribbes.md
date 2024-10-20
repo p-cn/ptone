@@ -9,6 +9,8 @@ My mind is mostly cluttered with unorganized ideas, thoughts, opinions, and desi
 []
 [
 [
-[[2024.10.20 - self-fulfilling thoughts of karma]][[
+[[2024.10.20 - self-fulfilling thoughts of karma]]
+
+[[
 [[2024.10.13 - the end of my wp days]][]
 []
