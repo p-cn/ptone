@@ -249,271 +249,271 @@ có 2 thứ đừng làm khi vui: hứa hẹn và đồng ý, sợ niềm vui đ
 
 
 
-![[z-res/f069168b649cd8ef11eb453d1825da4e_MD5.jpeg]]
+![[f069168b649cd8ef11eb453d1825da4e_MD5.jpeg|z-res/f069168b649cd8ef11eb453d1825da4e_MD5.jpeg]]
 
-![[z-res/e94212f18b576a0797d07d7d2dccfe5a_MD5.jpeg]]
+![[e94212f18b576a0797d07d7d2dccfe5a_MD5.jpeg|z-res/e94212f18b576a0797d07d7d2dccfe5a_MD5.jpeg]]
 
-![[z-res/1e3af7454e6704f026dcdb52b9cb6dff_MD5.jpeg]]
+![[1e3af7454e6704f026dcdb52b9cb6dff_MD5.jpeg|z-res/1e3af7454e6704f026dcdb52b9cb6dff_MD5.jpeg]]
 
-![[z-res/ad225c2ca0e9b1156ae790ce2232a175_MD5.jpeg]]
+![[ad225c2ca0e9b1156ae790ce2232a175_MD5.jpeg|z-res/ad225c2ca0e9b1156ae790ce2232a175_MD5.jpeg]]
 
-![[z-res/95b7546deadf050bc757c8822185ebfc_MD5.jpeg]]
+![[95b7546deadf050bc757c8822185ebfc_MD5.jpeg|z-res/95b7546deadf050bc757c8822185ebfc_MD5.jpeg]]
 
-![[z-res/18faeafb096fe4a4cc4ed89acc065715_MD5.jpeg]]
+![[18faeafb096fe4a4cc4ed89acc065715_MD5.jpeg|z-res/18faeafb096fe4a4cc4ed89acc065715_MD5.jpeg]]
 
-![[z-res/c00b47a60f20ca41af61a3ef7278e9bf_MD5.jpeg]]
+![[c00b47a60f20ca41af61a3ef7278e9bf_MD5.jpeg|z-res/c00b47a60f20ca41af61a3ef7278e9bf_MD5.jpeg]]
 
-![[z-res/348a137fb2ef54a6e27b8c74c8dd7299_MD5.jpeg]]
+![[348a137fb2ef54a6e27b8c74c8dd7299_MD5.jpeg|z-res/348a137fb2ef54a6e27b8c74c8dd7299_MD5.jpeg]]
 
-![[z-res/7023d5136c3f66feff3af2b13ecda00d_MD5.jpeg]]
+![[7023d5136c3f66feff3af2b13ecda00d_MD5.jpeg|z-res/7023d5136c3f66feff3af2b13ecda00d_MD5.jpeg]]
 
-![[z-res/ca5f3aa298de3ea56486ff9c6dd1ce57_MD5.jpeg]]
+![[ca5f3aa298de3ea56486ff9c6dd1ce57_MD5.jpeg|z-res/ca5f3aa298de3ea56486ff9c6dd1ce57_MD5.jpeg]]
 
-![[z-res/082082dadc07387744b999819f47748b_MD5.jpeg]]
+![[082082dadc07387744b999819f47748b_MD5.jpeg|z-res/082082dadc07387744b999819f47748b_MD5.jpeg]]
 
-![[z-res/32e52654f08ddf672cacef7f74688f58_MD5.jpeg]]
+![[32e52654f08ddf672cacef7f74688f58_MD5.jpeg|z-res/32e52654f08ddf672cacef7f74688f58_MD5.jpeg]]
 
-![[z-res/72f43604420668c8add3ced526470147_MD5.jpeg]]
+![[72f43604420668c8add3ced526470147_MD5.jpeg|z-res/72f43604420668c8add3ced526470147_MD5.jpeg]]
 
-![[z-res/89d0072ccf5860e391b0db7edc192556_MD5.jpeg]]
+![[89d0072ccf5860e391b0db7edc192556_MD5.jpeg|z-res/89d0072ccf5860e391b0db7edc192556_MD5.jpeg]]
 
-![[z-res/0478db485dee83bd68ff8d164e032e37_MD5.jpeg]]![[z-res/f166126bdfd738f46cd59c634e8858b5_MD5.jpeg]]
+![[0478db485dee83bd68ff8d164e032e37_MD5.jpeg|z-res/0478db485dee83bd68ff8d164e032e37_MD5.jpeg]]![[f166126bdfd738f46cd59c634e8858b5_MD5.jpeg|z-res/f166126bdfd738f46cd59c634e8858b5_MD5.jpeg]]
 
-![[z-res/5592c4f5da2660b84ce59ea5536de509_MD5.jpeg]]
+![[5592c4f5da2660b84ce59ea5536de509_MD5.jpeg|z-res/5592c4f5da2660b84ce59ea5536de509_MD5.jpeg]]
 
-![[z-res/3683a19692eb6aee27c537b16f1cc100_MD5.jpeg]]
+![[3683a19692eb6aee27c537b16f1cc100_MD5.jpeg|z-res/3683a19692eb6aee27c537b16f1cc100_MD5.jpeg]]
 
-![[z-res/5a8f9a542520337c4006b5cae08bc1b4_MD5.jpeg]]
+![[5a8f9a542520337c4006b5cae08bc1b4_MD5.jpeg|z-res/5a8f9a542520337c4006b5cae08bc1b4_MD5.jpeg]]
 
-![[z-res/68e25018cf6548656a48f6fd88e31118_MD5.jpeg]]
+![[68e25018cf6548656a48f6fd88e31118_MD5.jpeg|z-res/68e25018cf6548656a48f6fd88e31118_MD5.jpeg]]
 
-![[z-res/4948d1b4cd57f0bd7be8c0d2cf246b5d_MD5.jpeg]]
+![[4948d1b4cd57f0bd7be8c0d2cf246b5d_MD5.jpeg|z-res/4948d1b4cd57f0bd7be8c0d2cf246b5d_MD5.jpeg]]
 
-![[z-res/d439d9035e2ecf97b3e99b065749e063_MD5.jpeg]]
+![[d439d9035e2ecf97b3e99b065749e063_MD5.jpeg|z-res/d439d9035e2ecf97b3e99b065749e063_MD5.jpeg]]
 
-![[z-res/1164114abb8d6651284df70d465f17c3_MD5.jpeg]]
+![[1164114abb8d6651284df70d465f17c3_MD5.jpeg|z-res/1164114abb8d6651284df70d465f17c3_MD5.jpeg]]
 
-![[z-res/f2e2a6531f454b164129de5ffd1519a6_MD5.jpeg]]
+![[f2e2a6531f454b164129de5ffd1519a6_MD5.jpeg|z-res/f2e2a6531f454b164129de5ffd1519a6_MD5.jpeg]]
 
-![[z-res/d4133a74c5a6843574811ebcb2b50c5c_MD5.jpeg]]
+![[d4133a74c5a6843574811ebcb2b50c5c_MD5.jpeg|z-res/d4133a74c5a6843574811ebcb2b50c5c_MD5.jpeg]]
 
-![[z-res/a4337710120aa98f00be017cd601f639_MD5.jpeg]]
+![[a4337710120aa98f00be017cd601f639_MD5.jpeg|z-res/a4337710120aa98f00be017cd601f639_MD5.jpeg]]
 
-![[z-res/8233cceecd9a36a216a09c6e271499af_MD5.jpeg]]
+![[8233cceecd9a36a216a09c6e271499af_MD5.jpeg|z-res/8233cceecd9a36a216a09c6e271499af_MD5.jpeg]]
 
-![[z-res/e4807bb770b225dd95a909e82294392e_MD5.jpeg]]
+![[e4807bb770b225dd95a909e82294392e_MD5.jpeg|z-res/e4807bb770b225dd95a909e82294392e_MD5.jpeg]]
 
-![[z-res/9ac7927a38acb401a40e1edaad9bf0f3_MD5.jpeg]]
+![[9ac7927a38acb401a40e1edaad9bf0f3_MD5.jpeg|z-res/9ac7927a38acb401a40e1edaad9bf0f3_MD5.jpeg]]
 
-![[z-res/6bceb762799ce7d609812e2b493bf3e5_MD5.jpeg]]
+![[6bceb762799ce7d609812e2b493bf3e5_MD5.jpeg|z-res/6bceb762799ce7d609812e2b493bf3e5_MD5.jpeg]]
 
 
 
 
 
 
-![[z-res/fbbbfc6d9651509293365d65d5106bbc_MD5.jpeg]]![[z-res/7be72fc2bd75153c060e30a58f45c5e0_MD5.webp]]
+![[fbbbfc6d9651509293365d65d5106bbc_MD5.jpeg|z-res/fbbbfc6d9651509293365d65d5106bbc_MD5.jpeg]]![[7be72fc2bd75153c060e30a58f45c5e0_MD5.webp|z-res/7be72fc2bd75153c060e30a58f45c5e0_MD5.webp]]
 
 
 
 
 
-![[z-res/780eb296f0fc3eba44a58453c8cd8386_MD5.jpeg]]
+![[780eb296f0fc3eba44a58453c8cd8386_MD5.jpeg|z-res/780eb296f0fc3eba44a58453c8cd8386_MD5.jpeg]]
 
-![[z-res/19f28e311f41ee785c597a4954658795_MD5.jpeg]]
+![[19f28e311f41ee785c597a4954658795_MD5.jpeg|z-res/19f28e311f41ee785c597a4954658795_MD5.jpeg]]
 
-![[z-res/c68749714d46e133b7351afe3add2035_MD5.webp]]
+![[c68749714d46e133b7351afe3add2035_MD5.webp|z-res/c68749714d46e133b7351afe3add2035_MD5.webp]]
 
-![[z-res/0758496b9b36f2f41e677c08d892b022_MD5.webp]]![[z-res/53c82101b726e6307ab0f696ce0b6cb8_MD5.jpeg]]
+![[0758496b9b36f2f41e677c08d892b022_MD5.webp|z-res/0758496b9b36f2f41e677c08d892b022_MD5.webp]]![[53c82101b726e6307ab0f696ce0b6cb8_MD5.jpeg|z-res/53c82101b726e6307ab0f696ce0b6cb8_MD5.jpeg]]
 
-![[z-res/894c4f77871a46e5e017e95c6aa4048b_MD5.jpeg]]
+![[894c4f77871a46e5e017e95c6aa4048b_MD5.jpeg|z-res/894c4f77871a46e5e017e95c6aa4048b_MD5.jpeg]]
 
-![[z-res/8070f9c7a197f7ad05658b5fe672448d_MD5.jpeg]]
+![[8070f9c7a197f7ad05658b5fe672448d_MD5.jpeg|z-res/8070f9c7a197f7ad05658b5fe672448d_MD5.jpeg]]
 
-![[z-res/89dceb505df886f1e52b3acb3467f389_MD5.jpeg]]
+![[89dceb505df886f1e52b3acb3467f389_MD5.jpeg|z-res/89dceb505df886f1e52b3acb3467f389_MD5.jpeg]]
 
-![[z-res/efdb9aba4538408e2e87793f04dd2841_MD5.jpeg]]
+![[efdb9aba4538408e2e87793f04dd2841_MD5.jpeg|z-res/efdb9aba4538408e2e87793f04dd2841_MD5.jpeg]]
 
-![[z-res/875229cc1a14b79947f3d4d4595b2953_MD5.jpeg]]
+![[875229cc1a14b79947f3d4d4595b2953_MD5.jpeg|z-res/875229cc1a14b79947f3d4d4595b2953_MD5.jpeg]]
 
-![[z-res/402eafca1013e10715247e29833c2f3c_MD5.jpeg]]
+![[402eafca1013e10715247e29833c2f3c_MD5.jpeg|z-res/402eafca1013e10715247e29833c2f3c_MD5.jpeg]]
 
-![[z-res/fe6f4c31230ca31951f59dd36a2f4b58_MD5.png]]
+![[fe6f4c31230ca31951f59dd36a2f4b58_MD5.png|z-res/fe6f4c31230ca31951f59dd36a2f4b58_MD5.png]]
 
-![[z-res/e90df234c5127bc6e8db8cd85c6f4aea_MD5.jpeg]]
+![[e90df234c5127bc6e8db8cd85c6f4aea_MD5.jpeg|z-res/e90df234c5127bc6e8db8cd85c6f4aea_MD5.jpeg]]
 
-![[z-res/c8c0e1d9f3f93f1840c164a8fe684d6e_MD5.jpeg]]
+![[c8c0e1d9f3f93f1840c164a8fe684d6e_MD5.jpeg|z-res/c8c0e1d9f3f93f1840c164a8fe684d6e_MD5.jpeg]]
 
-![[z-res/9d80aa9041ffa69f165cd901fd83418b_MD5.jpeg]]
+![[9d80aa9041ffa69f165cd901fd83418b_MD5.jpeg|z-res/9d80aa9041ffa69f165cd901fd83418b_MD5.jpeg]]
 
-![[z-res/55f082006de84883efdd78609e80e286_MD5.jpeg]]
+![[55f082006de84883efdd78609e80e286_MD5.jpeg|z-res/55f082006de84883efdd78609e80e286_MD5.jpeg]]
 
-![[z-res/4a1309f79c7eb5413af3cdc3efe0395f_MD5.jpeg]]
+![[4a1309f79c7eb5413af3cdc3efe0395f_MD5.jpeg|z-res/4a1309f79c7eb5413af3cdc3efe0395f_MD5.jpeg]]
 
-![[z-res/cf0ec8cfc6d7b681e79f8c44c1cf70d1_MD5.jpeg]]
+![[cf0ec8cfc6d7b681e79f8c44c1cf70d1_MD5.jpeg|z-res/cf0ec8cfc6d7b681e79f8c44c1cf70d1_MD5.jpeg]]
 
-![[z-res/89e97815891ab7999b97097bb130d68f_MD5.png]]
+![[89e97815891ab7999b97097bb130d68f_MD5.png|z-res/89e97815891ab7999b97097bb130d68f_MD5.png]]
 
-![[z-res/fd332aebd7404320698b4046689ac88d_MD5.jpeg]]
+![[fd332aebd7404320698b4046689ac88d_MD5.jpeg|z-res/fd332aebd7404320698b4046689ac88d_MD5.jpeg]]
 
-![[z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
+![[ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg|z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
 
-![[z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
+![[ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg|z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
 
-![[z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
+![[ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg|z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
 
-![[z-res/cebac03276ac6062ff77ef2cc9cbe2d3_MD5.jpeg]]
+![[cebac03276ac6062ff77ef2cc9cbe2d3_MD5.jpeg|z-res/cebac03276ac6062ff77ef2cc9cbe2d3_MD5.jpeg]]
 
-![[z-res/11a32abb4429fd3485e83656a8e2e6db_MD5.jpeg]]
+![[11a32abb4429fd3485e83656a8e2e6db_MD5.jpeg|z-res/11a32abb4429fd3485e83656a8e2e6db_MD5.jpeg]]
 
-![[z-res/ee389182bf81a38a75055ede4dbbd728_MD5.jpeg]]
+![[ee389182bf81a38a75055ede4dbbd728_MD5.jpeg|z-res/ee389182bf81a38a75055ede4dbbd728_MD5.jpeg]]
 
-![[z-res/44406975451b04973070453994996036_MD5.jpeg]]
+![[44406975451b04973070453994996036_MD5.jpeg|z-res/44406975451b04973070453994996036_MD5.jpeg]]
 
-![[z-res/6ec66166ed97c59b16cb7216af548d04_MD5.jpeg]]
+![[6ec66166ed97c59b16cb7216af548d04_MD5.jpeg|z-res/6ec66166ed97c59b16cb7216af548d04_MD5.jpeg]]
 
-![[z-res/d4125d34648b8fcb6ad09af424a27df5_MD5.jpeg]]
+![[d4125d34648b8fcb6ad09af424a27df5_MD5.jpeg|z-res/d4125d34648b8fcb6ad09af424a27df5_MD5.jpeg]]
 
-![[z-res/df1c99afe0949a100cb4546a8d423476_MD5.jpeg]]
+![[df1c99afe0949a100cb4546a8d423476_MD5.jpeg|z-res/df1c99afe0949a100cb4546a8d423476_MD5.jpeg]]
 
-![[z-res/2b833509b0329f16c2e48e93b0da657c_MD5.jpeg]]
+![[2b833509b0329f16c2e48e93b0da657c_MD5.jpeg|z-res/2b833509b0329f16c2e48e93b0da657c_MD5.jpeg]]
 
-![[z-res/1b771570724956de4365157a754be9e6_MD5.jpeg]]
+![[1b771570724956de4365157a754be9e6_MD5.jpeg|z-res/1b771570724956de4365157a754be9e6_MD5.jpeg]]
 
-![[z-res/1669c34b39767e4343d209f15878b92c_MD5.jpeg]]
+![[1669c34b39767e4343d209f15878b92c_MD5.jpeg|z-res/1669c34b39767e4343d209f15878b92c_MD5.jpeg]]
 
-![[z-res/d09f9385cc987c93675021016cb84772_MD5.jpeg]]
+![[d09f9385cc987c93675021016cb84772_MD5.jpeg|z-res/d09f9385cc987c93675021016cb84772_MD5.jpeg]]
 
-![[z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
+![[ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg|z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
 
-![[z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
+![[ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg|z-res/ace4c407f4608e32b46a9b7ca97d699d_MD5.jpeg]]
 
-![[z-res/f3a9bccc1dca899f2f97036ebcef8cce_MD5.jpeg]]
+![[f3a9bccc1dca899f2f97036ebcef8cce_MD5.jpeg|z-res/f3a9bccc1dca899f2f97036ebcef8cce_MD5.jpeg]]
 
-![[z-res/707c48abeecb8224060ad9b17d0a743b_MD5.jpeg]]
+![[707c48abeecb8224060ad9b17d0a743b_MD5.jpeg|z-res/707c48abeecb8224060ad9b17d0a743b_MD5.jpeg]]
 
-![[z-res/5017b27e1818d670951da84487f0be4b_MD5.jpeg]]
+![[5017b27e1818d670951da84487f0be4b_MD5.jpeg|z-res/5017b27e1818d670951da84487f0be4b_MD5.jpeg]]
 
-![[z-res/f25afd18725d68e5e226264ca4cebd1f_MD5.jpeg]]
+![[f25afd18725d68e5e226264ca4cebd1f_MD5.jpeg|z-res/f25afd18725d68e5e226264ca4cebd1f_MD5.jpeg]]
 
-![[z-res/f7fe8963239f7bfc63a63182fc383e4f_MD5.jpeg]]
+![[f7fe8963239f7bfc63a63182fc383e4f_MD5.jpeg|z-res/f7fe8963239f7bfc63a63182fc383e4f_MD5.jpeg]]
 
-![[z-res/c7a3c058120fa9c6b9ebf41abae97bdf_MD5.jpeg]]
+![[c7a3c058120fa9c6b9ebf41abae97bdf_MD5.jpeg|z-res/c7a3c058120fa9c6b9ebf41abae97bdf_MD5.jpeg]]
 
-![[z-res/50a90a0612914ef9f829d0fd42cf3f80_MD5.jpeg]]
+![[50a90a0612914ef9f829d0fd42cf3f80_MD5.jpeg|z-res/50a90a0612914ef9f829d0fd42cf3f80_MD5.jpeg]]
 
-![[z-res/8d4595ff06d08606f5435ac7c354e303_MD5.jpeg]]
+![[8d4595ff06d08606f5435ac7c354e303_MD5.jpeg|z-res/8d4595ff06d08606f5435ac7c354e303_MD5.jpeg]]
 
-![[z-res/5ddf7f6b30a7fc15be3ee277928db5c0_MD5.jpeg]]
+![[5ddf7f6b30a7fc15be3ee277928db5c0_MD5.jpeg|z-res/5ddf7f6b30a7fc15be3ee277928db5c0_MD5.jpeg]]
 
-![[z-res/2c553cec77d62188f62d94e99b4e4ad2_MD5.jpeg]]
+![[2c553cec77d62188f62d94e99b4e4ad2_MD5.jpeg|z-res/2c553cec77d62188f62d94e99b4e4ad2_MD5.jpeg]]
 
-![[z-res/2db6697f3dec2ba38781ff131ee2e9d5_MD5.jpeg]]
+![[2db6697f3dec2ba38781ff131ee2e9d5_MD5.jpeg|z-res/2db6697f3dec2ba38781ff131ee2e9d5_MD5.jpeg]]
 
-![[z-res/16b5ee9cd8defb0b3601ff5a0b04e785_MD5.jpeg]]
+![[16b5ee9cd8defb0b3601ff5a0b04e785_MD5.jpeg|z-res/16b5ee9cd8defb0b3601ff5a0b04e785_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
+![[4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg|z-res/4b55f24fe993039ed5d57da13a5436dd_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
+![[f153ec2065e5ab0659c71aedd8252343_MD5.jpeg|z-res/f153ec2065e5ab0659c71aedd8252343_MD5.jpeg]]
 
-![[z-res/9a80af7a0de0b2b19a350d107d01b1f9_MD5.webp]]
+![[9a80af7a0de0b2b19a350d107d01b1f9_MD5.webp|z-res/9a80af7a0de0b2b19a350d107d01b1f9_MD5.webp]]
 
-![[z-res/486b4ee65261a543c08eec6c9eb3614a_MD5.jpeg]]
+![[486b4ee65261a543c08eec6c9eb3614a_MD5.jpeg|z-res/486b4ee65261a543c08eec6c9eb3614a_MD5.jpeg]]
 
-![[z-res/45fcef57ba2841cd5f7217dd50a06c87_MD5.webp]]
+![[45fcef57ba2841cd5f7217dd50a06c87_MD5.webp|z-res/45fcef57ba2841cd5f7217dd50a06c87_MD5.webp]]
 
-![[z-res/6e72a2a47f61fd828a500cb8a83087b5_MD5.webp]]
+![[6e72a2a47f61fd828a500cb8a83087b5_MD5.webp|z-res/6e72a2a47f61fd828a500cb8a83087b5_MD5.webp]]
 
-![[z-res/b810156147b378f9223494662af85ae7_MD5.webp]]
+![[b810156147b378f9223494662af85ae7_MD5.webp|z-res/b810156147b378f9223494662af85ae7_MD5.webp]]
 
-![[z-res/b9be2139cfa276ba4c3fe77a21258f82_MD5.webp]]
+![[b9be2139cfa276ba4c3fe77a21258f82_MD5.webp|z-res/b9be2139cfa276ba4c3fe77a21258f82_MD5.webp]]
 
-![[z-res/7bd5009a70d61897c840d379b5ad1c4e_MD5.webp]]
+![[7bd5009a70d61897c840d379b5ad1c4e_MD5.webp|z-res/7bd5009a70d61897c840d379b5ad1c4e_MD5.webp]]
 
-![[z-res/0a4562adf4d65a1ce08b1b723e1d0b4e_MD5.webp]]
+![[0a4562adf4d65a1ce08b1b723e1d0b4e_MD5.webp|z-res/0a4562adf4d65a1ce08b1b723e1d0b4e_MD5.webp]]
 
-![[z-res/92bc81f8376f3649d16cd65dc83be219_MD5.jpeg]]
+![[92bc81f8376f3649d16cd65dc83be219_MD5.jpeg|z-res/92bc81f8376f3649d16cd65dc83be219_MD5.jpeg]]
 
-![[z-res/6124c26d544e18ac6884f9cdfb1ac2fb_MD5.webp]]
+![[6124c26d544e18ac6884f9cdfb1ac2fb_MD5.webp|z-res/6124c26d544e18ac6884f9cdfb1ac2fb_MD5.webp]]
 
-![[z-res/853d538cd6c8bc8ed1581a080bac7bab_MD5.webp]]
+![[853d538cd6c8bc8ed1581a080bac7bab_MD5.webp|z-res/853d538cd6c8bc8ed1581a080bac7bab_MD5.webp]]
 
-![[z-res/8bbbcf4a54f5780166fcc667c30638c3_MD5.webp]]
+![[8bbbcf4a54f5780166fcc667c30638c3_MD5.webp|z-res/8bbbcf4a54f5780166fcc667c30638c3_MD5.webp]]
 
-![[z-res/be1011012ae8480a90d0748cd433f07e_MD5.webp]]
+![[be1011012ae8480a90d0748cd433f07e_MD5.webp|z-res/be1011012ae8480a90d0748cd433f07e_MD5.webp]]
 
-![[z-res/941d8434be83485a514e9b13d7fbbbe5_MD5.webp]]
+![[941d8434be83485a514e9b13d7fbbbe5_MD5.webp|z-res/941d8434be83485a514e9b13d7fbbbe5_MD5.webp]]
 
-![[z-res/ec2802c1f34cfcfd374d04fea85f853f_MD5.webp]]
+![[ec2802c1f34cfcfd374d04fea85f853f_MD5.webp|z-res/ec2802c1f34cfcfd374d04fea85f853f_MD5.webp]]
 
-![[z-res/8a8bed570693a262ea9ae410dc422b1e_MD5.webp]]
+![[8a8bed570693a262ea9ae410dc422b1e_MD5.webp|z-res/8a8bed570693a262ea9ae410dc422b1e_MD5.webp]]
 
-![[z-res/0b202972dce55cf96d35f35d52b25cdb_MD5.webp]]
+![[0b202972dce55cf96d35f35d52b25cdb_MD5.webp|z-res/0b202972dce55cf96d35f35d52b25cdb_MD5.webp]]
 
-![[z-res/08a18b1914aa86b86318a1345bf26477_MD5.jpeg]]
+![[08a18b1914aa86b86318a1345bf26477_MD5.jpeg|z-res/08a18b1914aa86b86318a1345bf26477_MD5.jpeg]]
 To have spent my life holding my hands in tigh
-![[z-res/a06fae6e2743a81416cae8504cf524c9_MD5.webp]]
+![[a06fae6e2743a81416cae8504cf524c9_MD5.webp|z-res/a06fae6e2743a81416cae8504cf524c9_MD5.webp]]
 
 
 despite all my rage, i am still just a girl in a room
 
-![[z-res/a3dc22d403fe34d7204ce4fe317ef3ee_MD5.jpeg]]![[z-res/4febefd971525e83472a41f09eafc5d7_MD5.jpeg]]![[z-res/5c99f81db7a6e55b9b319e6f7334e0bb_MD5.jpeg]]![[z-res/8d6475883b0897a1d6d29e4fb8e2c892_MD5.jpeg]]
+![[a3dc22d403fe34d7204ce4fe317ef3ee_MD5.jpeg|z-res/a3dc22d403fe34d7204ce4fe317ef3ee_MD5.jpeg]]![[4febefd971525e83472a41f09eafc5d7_MD5.jpeg|z-res/4febefd971525e83472a41f09eafc5d7_MD5.jpeg]]![[5c99f81db7a6e55b9b319e6f7334e0bb_MD5.jpeg|z-res/5c99f81db7a6e55b9b319e6f7334e0bb_MD5.jpeg]]![[8d6475883b0897a1d6d29e4fb8e2c892_MD5.jpeg|z-res/8d6475883b0897a1d6d29e4fb8e2c892_MD5.jpeg]]
 
-![[z-res/729ba536b75cb74898e0af0e146793da_MD5.jpeg]]
+![[729ba536b75cb74898e0af0e146793da_MD5.jpeg|z-res/729ba536b75cb74898e0af0e146793da_MD5.jpeg]]
 
-![[z-res/795d1030f0289f4654534353ce19ac4a_MD5.jpeg]]
+![[795d1030f0289f4654534353ce19ac4a_MD5.jpeg|z-res/795d1030f0289f4654534353ce19ac4a_MD5.jpeg]]
 
-![[z-res/cc963668a53611ce1cb48ed5e0710a8e_MD5.jpeg]]
+![[cc963668a53611ce1cb48ed5e0710a8e_MD5.jpeg|z-res/cc963668a53611ce1cb48ed5e0710a8e_MD5.jpeg]]
 
-![[z-res/1cdd30b799408773a9728915e32d589e_MD5.jpeg]]
+![[1cdd30b799408773a9728915e32d589e_MD5.jpeg|z-res/1cdd30b799408773a9728915e32d589e_MD5.jpeg]]
 
-![[z-res/e003e09af0edf11215c753824469ebe9_MD5.webp]]
+![[e003e09af0edf11215c753824469ebe9_MD5.webp|z-res/e003e09af0edf11215c753824469ebe9_MD5.webp]]
 
-![[z-res/3fcdf7f76928ea810eb92f587c462958_MD5.webp]]
+![[3fcdf7f76928ea810eb92f587c462958_MD5.webp|z-res/3fcdf7f76928ea810eb92f587c462958_MD5.webp]]
 
-![[z-res/fc29b89b4c27e91cf54c48db5ad1b38a_MD5.jpeg]]
+![[fc29b89b4c27e91cf54c48db5ad1b38a_MD5.jpeg|z-res/fc29b89b4c27e91cf54c48db5ad1b38a_MD5.jpeg]]
 
-![[z-res/f30c5607bfd11deca327e1a29bc89f4a_MD5.jpeg]]
+![[f30c5607bfd11deca327e1a29bc89f4a_MD5.jpeg|z-res/f30c5607bfd11deca327e1a29bc89f4a_MD5.jpeg]]
 
