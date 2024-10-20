@@ -6,7 +6,7 @@ tags:
 This is the space for my mental notes and some writings.
 Currently, I am focusing on [[life is not a masterpiece/words to live by]].
 
-My random thoughts are at [[scribbles]].
+My random thoughts are at [[random scribbles]].
 
 Have a nice day. Here is my dog tax.
 
